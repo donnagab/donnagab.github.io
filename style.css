@@ -1,0 +1,26 @@
+
+.img  {position: relative;
+            
+            width: 700px;
+            height:200px;
+           }
+           
+           
+          .nav li {
+              display:inline-block;
+              
+              margin:0 auto;
+              font-size:200%;
+              margin-right:20px;
+              height:40px;
+              
+          }
+           body {margin:0 auto;}
+           
+           h1 {color:A426CE; font-family:Georgia,serif;}
+           
+           h2 {color:0080FF; font-family:Georgia,serif;}
+           
+             .fun,.home {      clear: both;
+    
+}
